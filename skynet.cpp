@@ -1,7 +1,7 @@
 /*
-The Following is a Solution to the Skynet Revolution Problem (Episode 1) on Codinggame.com
+The Following is a Solution to the Skynet Revolution Problem (Episode 1) on Codinggame.com (https://www.codingame.com/training/medium/skynet-revolution-episode-1).
 
-This problem was solved using a modified breadth-first search approach. Unlike a standard queue in a traditional breadth-first search, a priority queue was used.
+This problem was solved using a modified breadth-first search approach. Unlike a standard queue in a traditional breadth-first search, a priority queue was used. If the virus is in proximity to a gateway, the link between the gateway and the virus is prioritized.
 */
 
 #include <iostream>

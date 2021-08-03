@@ -5,7 +5,7 @@
 using namespace std;
 
 /* 
-This is the solution to the Shadows of the Knight (Episode 1) problem on Codinggame. 
+This is the solution to the Shadows of the Knight (Episode 1) problem on Codinggame (https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1). 
 The approach taken was to make Batman jump to the midpoints of a search window.
 As the game progresses, the search window is gradually restricted making Batman converge to the location of the bomb.
 Note that the direction convention is as follows:
